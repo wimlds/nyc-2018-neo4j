@@ -1,7 +1,7 @@
 ![wimlds](images/Logo-Blue-reduced.png)  
 ![scikit](images/scikit-learn-logo.png)
 
-# Neo4j Presentation to WiMLDS 
+# Neo4j Presentation
  
 * [WiMLDS Meetup Event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/255098438/)  
 * Date: 23-Oct-2018
@@ -11,7 +11,6 @@
 
 #### Host Speaker 
 * [William Lyon](https://www.linkedin.com/in/lyonwj/)
-
 
 #### Organizer:
 * [Reshama Shaikh](https://reshamas.github.io) 
