@@ -1,10 +1,12 @@
 
 <p float="left">
-  <img src="images/blue_logo_full.jpg" height="80" width="350" />
-  <img src="images/neo4j.png"   /> 
+  <img src="images/blue_logo_full.jpg" height="90" width="350" />
+  <img src="images/neo4j.png" height="200" width="350"   /> 
 
 </p>
 
+![wimlds](images/blue_logo_full.jpg)  
+![scikit](images/neo4j.png)
 
 height="100" width="400
 
