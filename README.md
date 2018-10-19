@@ -1,5 +1,5 @@
 ![wimlds](images/Logo-Blue-reduced.png)  
-![scikit](images/scikit-learn-logo.png)
+![scikit](images/neo4j.png)
 
 # Neo4j Presentation
  
