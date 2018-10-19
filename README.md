@@ -5,11 +5,6 @@
 
 </p>
 
-![wimlds](images/blue_logo_full.jpg)  
-![scikit](images/neo4j.png)
-
-height="100" width="400
-
 # Neo4j Presentation
  
 * [WiMLDS Meetup Event](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/events/255098438/)  
