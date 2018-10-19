@@ -1,13 +1,12 @@
 
 <p float="left">
-  <img src="images/blue_logo_full.jpg" height="100" width="400" />
-   <img  width="100" />
-  <img src="images/neo4j.png" height="160" width="300"  /> 
+  <img src="images/blue_logo_full.jpg" height="80" width="350" />
+  <img src="images/neo4j.png"   /> 
 
 </p>
 
 
-
+height="100" width="400
 
 # Neo4j Presentation
  
