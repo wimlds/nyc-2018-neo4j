@@ -1,5 +1,13 @@
-![wimlds](images/Logo-Blue-reduced.png)  
-![scikit](images/neo4j.png)
+
+<p float="left">
+  <img src="images/blue_logo_full.jpg" height="100" width="400" />
+   <img  width="100" />
+  <img src="images/neo4j.png" height="160" width="300"  /> 
+
+</p>
+
+
+
 
 # Neo4j Presentation
  
