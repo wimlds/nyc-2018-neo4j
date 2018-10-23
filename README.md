@@ -37,7 +37,7 @@ Please feel free to take photos and tweet about the event.
 
 - NY Times: [@nytimes](https://twitter.com/nytimes)
 
-- Will Lyon:  [@alyonwj](https://twitter.com/lyonwj)
+- Will Lyon:  [@lyonwj](https://twitter.com/lyonwj)
 
 - Reshama Shaikh: [@reshamas](https://twitter.com/reshamas)
 
