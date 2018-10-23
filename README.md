@@ -1,9 +1,8 @@
 
-<p float="left">
-  <img src="images/blue_logo_full.jpg" height="90" width="350" />
-  <img src="images/neo4j.png" height="200" width="350"   /> 
+![](images/blue_logo_full.jpg)
+![](images/neo4j.png)
 
-</p>
+
 
 # Neo4j Presentation
  
@@ -23,15 +22,10 @@
 
 ### Notes
 
-#### 1.  xxx
- 
- 
-#### 2.  xxx
-
- 
-#### 3.  xxx 
- 
-#### 4.  xxx
+* This is a hands-on workshop. We will be using Neo4j and a Jupyter notebook to run Python.
+* You can either [install Neo4j Desktop](https://neo4j.com/download) locally or spin up a blank [Neo4j Sandbox instance](https://neo4jsandbox.com)
+* The Jupyter notebooks can be run locally (clone this repo) or through Google's Collaboratory service. *NOTE: If you run the notebooks through Collaboratory you'll need to use Neo4j Sandbox as the hosted notebooks cannot connect to your local macine.*
+* Slides are available here.
 
 ---
 
